@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hello, I'm XLRsec!<br><br>I'm a passionate security researcher and ethical hacker with a deep commitment to uncovering vulnerabilities and enhancing digital security. With a background in both offensive and defensive security, I specialize in identifying and mitigating risks to protect systems and data from potential threats.<br>What I Do<br><br>    Penetration Testing: Conducting thorough assessments to identify and exploit vulnerabilities in applications, networks, and systems.<br>    Vulnerability Research: Exploring and discovering new security flaws to help improve overall security posture.<br>    Security Tool Development: Creating and contributing to tools that assist in security analysis and testing.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xlrsec) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xlrsec) 
 
@@ -18,4 +14,8 @@ Hello, I'm XLRsec!<br><br>I'm a passionate security researcher and ethical hacke
 ---
 [![](https://visitcount.itsvg.in/api?id=xlrsec&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 💫 About Me:
+Hello, I'm XLRsec!<br><br>I'm a passionate security researcher and ethical hacker with a deep commitment to uncovering vulnerabilities and enhancing digital security. With a background in both offensive and defensive security, I specialize in identifying and mitigating risks to protect systems and data from potential threats.<br>What I Do<br><br>    Penetration Testing: Conducting thorough assessments to identify and exploit vulnerabilities in applications, networks, and systems.<br>    Vulnerability Research: Exploring and discovering new security flaws to help improve overall security posture.<br>    Security Tool Development: Creating and contributing to tools that assist in security analysis and testing.
+
+
